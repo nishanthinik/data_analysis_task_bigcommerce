@@ -7,7 +7,7 @@ Thank you for sharing the request and the details. We have reviewed and analysed
 
 Key observations:<br>
 	
-	•	Revenue Growth: Revenue from **completed orders increased by approximately 12% year-over-year, rising from USD 8,038.41 in March 2023 to USD 9,018.06 in March 2024**.<br>
+	•	Revenue Growth: Revenue from completed orders increased by approximately 12% year-over-year, rising from USD 8,038.41 in March 2023 to USD 9,018.06 in March 2024.<br>
 	•	Orders: The number of completed orders increased by about 2.8%, indicating steady growth in overall sales. <br>
 	•	Order Cancellations: We also observed a significant reduction in cancelled orders (approximately 36%), which likely to be contributed positively to the improvement in revenue growth.<br>
 	
